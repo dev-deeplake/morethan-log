@@ -11,10 +11,10 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: ``,
-      href: "",
-    },
+    // {
+    //   name: ``,
+    //   href: "",
+    // },
   ],
   // blog setting (required)
   blog: {
