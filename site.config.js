@@ -3,9 +3,10 @@ const CONFIG = {
   profile: {
     name: "deeplake",
     image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo2LCJub3NlIjoxMCwibW91dGgiOjAsImV5ZXMiOjksImV5ZWJyb3dzIjoxNSwiZ2xhc3NlcyI6MCwiaGFpciI6MTksImFjY2Vzc29yaWVzIjowLCJkZXRhaWxzIjo5LCJiZWFyZCI6MCwiZmxpcCI6MCwiY29sb3IiOiJyZ2JhKDI1NSwgMCwgMCwgMCkiLCJzaGFwZSI6Im5vbmUifQ==", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
+    role: "",
+    bio: "",
     email: "devdeeplake@gmail.com",
+    linkedin: "",
     github: "deeplake",
     instagram: "",
   },
