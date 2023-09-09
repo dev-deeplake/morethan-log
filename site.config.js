@@ -10,7 +10,8 @@ const CONFIG = {
     github: "dev-deeplake",
     instagram: "",
   },
-  // projects: [
+  projects: null,
+  // [
   //   {
   //     name: ``,
   //     href: "",
