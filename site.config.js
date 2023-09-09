@@ -6,16 +6,15 @@ const CONFIG = {
     role: "",
     bio: "",
     email: "devdeeplake@gmail.com",
-    linkedin: "",
     github: "deeplake",
     instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: `morethan-log`,
-  //     href: "https://github.com/morethanmin/morethan-log",
-  //   },
-  // ],
+  projects: [
+    {
+      name: ``,
+      href: "",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "deeplake-wiki",
